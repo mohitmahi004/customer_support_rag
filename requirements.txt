@@ -6,3 +6,5 @@ langchain-astradb
 langchain-groq
 fastapi
 uvicorn
+
+-e .

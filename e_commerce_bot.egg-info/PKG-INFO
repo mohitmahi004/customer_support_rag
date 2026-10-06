@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: e-commerce-bot
+Version: 0.0.1
+Author-email: mohitmahi205@gmail.com
+Requires-Dist: langchain-astradb
+Requires-Dist: langchain
+Dynamic: author-email
+Dynamic: requires-dist
